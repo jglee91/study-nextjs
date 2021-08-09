@@ -1,7 +1,7 @@
 # Study Next.js
 
 ## next.js crash course 2021
-  - ref) https://www.youtube.com/watch?v=mTz0GXj8NN0
+> https://www.youtube.com/watch?v=mTz0GXj8NN0
   - creating components
   - using jsx
   - passing props
@@ -25,3 +25,6 @@
       $ npm i -g serve
       $ serve -s out -p 8000
       ```
+
+## next.js with typescript
+> https://www.youtube.com/watch?v=Tnl7AWrB-eQ&list=PLxcpFcX4ZY32gP49Zm8GIOohWQqak_vIV
