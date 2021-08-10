@@ -30,4 +30,4 @@
 > https://www.youtube.com/watch?v=Tnl7AWrB-eQ&list=PLxcpFcX4ZY32gP49Zm8GIOohWQqak_vIV
 
 ## next.js tic tac toe with typescript
-> 
+> https://www.youtube.com/watch?v=7iw8j20h4pc
