@@ -39,3 +39,9 @@
 ## next.js notes-app with mongodb
 
 > https://www.youtube.com/watch?v=tt9hws5JGRc
+
+---
+
+## next.js tutorial (official home)
+
+> https://nextjs.org/learn/dashboard-app/getting-started
